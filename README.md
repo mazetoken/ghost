@@ -20,7 +20,7 @@ This is an experimental NFT.
 
 Prepare an image in svg format (small size - about 10 kb)
 
-Open `https://base64.guru/converter/encode/image/svg` and upload the image. In the "Output Format" field choose `Data URI--data:content/type;base64`. Encode it.
+Open [Base64 svg converter](https://base64.guru/converter/encode/image/svg) and upload the image. In the "Output Format" field choose `Data URI--data:content/type;base64`. Encode it.
 
 Copy Base64 output string and paste it to eg. notepad. Save it. You can paste the string to a web browser to see the image.
 
@@ -32,7 +32,7 @@ It should be something like [this](ghostmetadatabase64.json)
 
 _You can try to add base64 encoded audio file to `"animation_url": "",`, but it will be probably too big._
 
-Open https://base64.guru/converter/encode/file again, upload and encode the sample_metadata.json. In the "Output Format" field choose `Data URI--data:content/type;base64`. Encode it.
+Open [Base64 file converter](https://base64.guru/converter/encode/file), upload and encode the sample_metadata.json. In the "Output Format" field choose `Data URI--data:content/type;base64`. Encode it.
 
 Copy Base64 output string and paste it to eg. notepad. Change `data:@file/json;` to `data:application/json;`. Save it. You can paste the string to a web browser to see the metadata.
 
@@ -43,7 +43,6 @@ Compile and deploy ghost.sol in [Remix](https://remix.ethereum.org). Change toke
 In "Deploy & and run transactions" section use "mint" option to mint NFT. Use sample_metadata.json base64 encoded string as uri.
 
 [Get the code](https://github.com/mazetoken/ghost) and make it better.
-
 
 [Here](https://github.com/PatrickAlphaC/all-on-chain-generated-nft) is another on-chain NFT example.
 
