@@ -4,7 +4,7 @@ GHOST ON-CHAIN smartBCH NFT by B_S_Z
 
 ![Ghost](img/Ghost512svg.svg)
 
-Image is stored on-chain. However the image is not visible in Metamask app.
+NFT image is stored on-chain. However the image is not visible in Metamask app (yet).
 
 Symbol: GHOST
 
@@ -14,13 +14,13 @@ Contract id:
 
 0xb189E7f125f2D7051a2824Ad3Ae727D620d9459F
 
-[GHOST transaction](https://www.smartscan.cash/transaction/0x908c97e9b7fad303365af4b776989c84b61fb01a98a45be567dc882433281fdf) on smartBCH mainnet
+[GHOST transaction](https://www.smartscan.cash/transaction/0x908c97e9b7fad303365af4b776989c84b61fb01a98a45be567dc882433281fdf) on smartBCH mainnet.
 
 This is an experimental NFT.
 
 ## Tutorial (this is not the best way to create on-chain NFT image)
 
-Prepare an image in svg format (small size - about 10 kb)
+Prepare an image in svg format (small size - about 10 kb).
 
 Open [Base64 svg converter](https://base64.guru/converter/encode/image/svg) and upload the image. In the "Output Format" field choose `Data URI--data:content/type;base64`. Encode it.
 
