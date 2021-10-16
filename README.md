@@ -28,7 +28,7 @@ It should be something like [this](ghostsvgbase64.txt)
 
 Open sample_metadata.json and paste the encoded output string to `"image": "...",`
 
-It should be something like [this](ghost_metadata.json)
+It should be something like [this](ghostmetadatabase64.json)
 
 _You can try to add base64 encoded audio file to `"animation_url": "",`, but it will be probably too big._
 
@@ -42,8 +42,12 @@ Compile and deploy ghost.sol in [Remix](https://remix.ethereum.org). Change toke
 
 In "Deploy & and run transactions" section use "mint" option to mint NFT. Use sample_metadata.json base64 encoded string as uri.
 
+[Get the code](https://github.com/mazetoken/ghost) and make it better.
 
-[Here](https://github.com/PatrickAlphaC/all-on-chain-generated-nft) is another on-chain NFT example
+
+[Here](https://github.com/PatrickAlphaC/all-on-chain-generated-nft) is another on-chain NFT example.
+
+Have fun ;-)
 
 ------------------------------------------------------------
 
