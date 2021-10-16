@@ -1,0 +1,23 @@
+{
+  "name": "NFT",
+  "description": "My NFT ...",
+  "external_url": "https://...",
+  "image": "",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": "Legendary"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Token id", 
+      "value": 1
+    }
+  ]
+}
