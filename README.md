@@ -38,9 +38,9 @@ Copy Base64 output string and paste it to eg. notepad. Change `data:@file/json;`
 
 It should be something like [this](ghostmetadatabase64.txt). This is the token uri used in on-chain NFT.
 
-Compile and deploy ghost.sol in [Remix](https://remix.ethereum.org). Change token name and symbol.
+Open ghost.sol in [Remix](https://remix.ethereum.org). Change token name and symbol. Compile it and deploy.
 
-In "Deploy & and run transactions" section use "mint" option to mint NFT. Use sample_metadata.json base64 encoded string as uri.
+In "Deploy & and run transactions" section use "mint" option to mint NFT. Use your sample_metadata.json base64 encoded string as uri.
 
 You can try it on smartBCH testnet:
 ```
