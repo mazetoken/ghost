@@ -42,6 +42,14 @@ Compile and deploy ghost.sol in [Remix](https://remix.ethereum.org). Change toke
 
 In "Deploy & and run transactions" section use "mint" option to mint NFT. Use sample_metadata.json base64 encoded string as uri.
 
+You can try it on smartBCH testnet:
+```
+Network name: Amber
+RPC URL: http://35.220.203.194:8545/
+Chain ID: 0x2711
+Currency Symbol: BCH
+```
+
 [Get the code](https://github.com/mazetoken/ghost) and make it better.
 
 [Here](https://github.com/PatrickAlphaC/all-on-chain-generated-nft) is another on-chain NFT example.
