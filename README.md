@@ -45,7 +45,7 @@ string: data:@file/json;base64,ew0KICAibmFtZSI6ICJHSE9TVCBPTi1DSEFJTiIsDQogICJkZ
 
 _GHOST token id 0 [transaction](https://www.smartscan.cash/transaction/0x7ab17aceaa000ad246867f3b310412ad19c45c398f5b6461253874c4e7274748)_
 
-That is what it looks in MetaMask:
+This is what it looks in MetaMask:
 
 ![Ghost](img/ghost_.jpg)
 
