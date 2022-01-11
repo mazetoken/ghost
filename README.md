@@ -8,9 +8,9 @@ Symbol: GHOST
 
 Name: GHOST ON-CHAIN
 
-Contract id: 0xF8552a96100283BebD16B19F1b0F1cb1f18A11Ff
+Contract address: 0xF8552a96100283BebD16B19F1b0F1cb1f18A11Ff
 
-_This is an experimental NFT._
+_This is an experimental NFT. The first version was created in October 15, 2021_
 
 ## Tutorial
 
