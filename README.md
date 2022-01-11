@@ -43,9 +43,9 @@ Open GhostOnChain.sol in [Remix](https://remix.ethereum.org) - solidity. Change 
 In "Deploy & and run transactions" section use `safeMint` function to mint NFT (paste your address in `to` field and encoded string in `uri` field). Use your sample_metadata.json base64 encoded string (or ghostmetadatabase64.json encoded string for a test) as uri. Click `transact`. To check the uri go to `tokenURI` function and type `0`. Call the function. You should see `0:
 string: data:@file/json;base64,ew0KICAibmFtZSI6ICJHSE9TVCBPTi1DSEFJTiIsDQogICJkZXNjcmlwdGlvbiI6ICJHSE9TVCBvbi1jaGFpbiBORlQgYXJ0d29yayIsDQogICJleHRlcm5hbF91cmwiOiAiaHR0cHM6Ly9tYXpldG9rZW4uZ2l0aHViLmlvL2dob3N0IiwNCiAgImltYWdlIjogImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBSUFBQUFDQUNBWUFBQUREUG1ITEFBQUFCbUpMUjBRQS93RC9BUCtndmFlVEFBQWZqVWxFUVZSNG5PMmRlWHhVVlpyM2Y4K3B1bFdwVktxeTczdEkyTU9pN0NKS2kwdHJLOXEyMkczYkN1Z2dUUktVUmZ0OXA1ZUpNNzNZU3FLe(...)`
 
-_GHOST token id 0 [transaction](https://www.smartscan.cash/transaction/0x7ab17aceaa000ad246867f3b310412ad19c45c398f5b6461253874c4e7274748)_
+_GHOST token id 0 [transaction](https://www.smartscan.cash/transaction/0x7ab17aceaa000ad246867f3b310412ad19c45c398f5b6461253874c4e7274748) - blockchain transaction fee is about 0.01 BCH ;-)_
 
-This is what it looks in MetaMask:
+This is how it looks in MetaMask:
 
 ![Ghost](img/ghost_.jpg)
 
